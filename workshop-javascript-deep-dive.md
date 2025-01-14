@@ -23,7 +23,7 @@ The main concepts derived from the demo code:
 * Code Flow and Control Structures (Defensive Programming, Return Early, object destructuring, spread operator)
 * Advanced JavaScript Concepts (Chaining Methods, Concurrency Model, Event Loop (Call Stack, Event Queue, and Microtask Queue), Hoisting, Closure)
 
-Bron: You Don't Know JS
+Zelfstudie: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
 Topics we encounter when using the debugger from the **Sources** tab in DevTools:
